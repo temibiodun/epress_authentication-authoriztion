@@ -1,0 +1,73 @@
+[
+    {
+        "name" : "Nike",
+        "price": "23000",
+        "size" : "small",
+        "id" : "1"
+    },
+
+    {
+        "name" :"Gucci",
+        "price" : "30000",
+        "size" : "large",
+        "id" : "2"
+    },
+
+    {
+        "name" : "Adidas",
+        "price" : "20000",
+        "size" : "medium",
+        "id" : "3"
+    },
+
+    {
+        "name" : "Puma",
+        "price" : "15000",
+        "size" : "small",
+        "id" : "4"
+    },
+
+    {
+        "name" : "Reebok",
+        "price" : "10000",
+        "size" : "large",
+        "id" : "5"
+    },
+
+    {
+        "name" : "Fila",
+        "price" : "5000",
+        "size" : "medium",
+        "id" : "6"
+    },
+
+    {
+        "name" : "Skechers",
+        "price" : "4000",
+        "size" : "small",
+        "id" : "7"
+    },
+
+    {
+        "name" : "Vans",
+        "price" : "3000",
+        "size" : "large",
+        "id" : "8"
+    },
+
+    {
+        "name" : "Converse",
+        "price" : "2000",
+        "size" : "medium",
+        "id" : "9"
+    },
+
+    {
+        "name" : "New Balance",
+        "price" : "1000",
+        "size" : "small",
+        "id" : "10"
+    }
+    
+
+]
